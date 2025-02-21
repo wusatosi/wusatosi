@@ -28,7 +28,7 @@ highest quality C++ Standard libraries through
 
 If you're interested in contributing to @bemanproject feel free to reach out.
 
-### Activley looking for connections, oppounitites, and advises
+### Activley looking for connections, friends, oppounitites, and advises
 
 I am actively looking for oppounities in the C++ industry and advises for career development,
 you can reach out to me on linkedin.

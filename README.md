@@ -18,7 +18,7 @@ and CI/ CD tools.
 
 ### Contribution at the beman project
 
-I am a main contributor at @bemanproject ,
+I am a main contributor at [@bemanproject](https://github.com/bemanproject/),
 we aim to "support the efficient design and adoption of the 
 highest quality C++ Standard libraries through 
 *implementation experience*, *user feedback*, and *technical expertise*".
@@ -31,7 +31,7 @@ If you're interested in contributing to @bemanproject feel free to reach out.
 ### Activley looking for connections, friends, oppounitites, and advises
 
 I am actively looking for oppounities in the C++ industry and advises for career development,
-you can reach out to me on linkedin.
+you can reach out to me on [linkedin](https://www.linkedin.com/in/xueqing-wu-29a25724b/).
 
 <!--
 **wusatosi/wusatosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
